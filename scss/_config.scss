@@ -1,10 +1,10 @@
 // this is a partial file (starts with _)
 
-$primary-color: #444; //#fff;
-$secondary-color: #eece1a;
+$primary-color: #444; //#444;
+$secondary-color: #3367d6; //#eece1a;
 $show-home-image: true;
 $home-image: url(../img/background.jpg);
-$background-opacity: 0.9;
+$background-opacity: 0.7;
 
 @mixin easeOut { //like a function in sass
   transition: all 0.5s ease-out;  
